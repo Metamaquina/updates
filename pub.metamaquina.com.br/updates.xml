@@ -1,0 +1,62 @@
+<updates>
+  <message>
+    <text>Uma nova versão do Pronterface está disponível para download</text>
+    <url>http://pub.metamaquina.com.br/updates/pronterface/pronterface-2013-06-26.zip</url>
+  </message>
+
+  <profile>
+    <title>PLA Metamáquina</title>
+    <type>material</type>
+    <description></description>
+    <file>http://pub.metamaquina.com.br/updates/profiles/material/MM_PLA.ini</file>
+    <checksum></checksum>
+  </profile>
+
+  <profile>
+    <title>ABS Metamáquina</title>
+    <type>material</type>
+    <description></description>
+    <file>http://pub.metamaquina.com.br/updates/profiles/material/MM_ABS.ini</file>
+    <checksum></checksum>
+  </profile>
+
+  <profile>
+    <title>0.25mm</title>
+    <type>print</type>
+    <description>Altura de camada de 0.25 milímetros</description>
+    <file>http://pub.metamaquina.com.br/updates/profiles/print/MM_025.ini</file>
+    <checksum></checksum>
+  </profile>
+
+  <profile>
+    <title>MM2</title>
+    <type>printer</type>
+    <description>Características da impressora Metamáquina 2</description>
+    <file>http://pub.metamaquina.com.br/updates/profiles/printer/MM2.ini</file>
+    <checksum></checksum>
+  </profile>
+
+  <firmware>
+    <title>Metamáquina 2 RepetierFW 25/Jun/2013</title>
+    <description>Disables endstop checking during print moves</description>
+    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-06-25.hex</image>
+    <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_06_25</source>
+    <checksum></checksum>
+  </firmware>
+
+  <firmware>
+    <title>Metamáquina 2 RepetierFW 19/Jun/2013</title>
+    <description>Initial public release</description>
+    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-06-19.hex</image>
+    <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_06_19</source>
+    <checksum></checksum>
+  </firmware>
+
+  <firmware>
+    <title>Metamáquina 2 RC2 RAMBo rev1.0e</title>
+    <description>Firmware para um dos nossos protótipos internos (MM2_RC2)</description>
+    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-06-24_MM2RC2_RAMBoRev10e.hex</image>
+    <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_RC2_RAMBo_rev10e_2013_06_24</source>
+    <checksum></checksum>
+  </firmware>
+</updates>
