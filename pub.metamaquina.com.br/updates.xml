@@ -1,22 +1,33 @@
 <updates>
   <message>
+    <platform>gnulinux</platform>
+    <below>20130626</below>
+    <title>Atualização</title>
     <text>Uma nova versão do Pronterface está disponível para download</text>
-    <url>http://pub.metamaquina.com.br/updates/pronterface/pronterface-2013-06-26.zip</url>
+    <url>http://pub.metamaquina.com.br/updates/host/gnulinux/MM-pronterface-gnulinux-2013-06-26.zip</url>
+  </message>
+
+  <message>
+    <platform>windows</platform>
+    <below>20130626</below>
+    <title>Atualização</title>
+    <text>Uma nova versão do Pronterface está disponível para download</text>
+    <url>http://pub.metamaquina.com.br/updates/host/windows/MM-pronterface-windows-2013-06-26.zip</url>
   </message>
 
   <profile>
     <title>PLA Metamáquina</title>
-    <type>material</type>
+    <type>filament</type>
     <description></description>
-    <file>http://pub.metamaquina.com.br/updates/profiles/material/MM_PLA.ini</file>
+    <file>http://pub.metamaquina.com.br/updates/profiles/filament/MM_PLA.ini</file>
     <checksum></checksum>
   </profile>
 
   <profile>
     <title>ABS Metamáquina</title>
-    <type>material</type>
+    <type>filament</type>
     <description></description>
-    <file>http://pub.metamaquina.com.br/updates/profiles/material/MM_ABS.ini</file>
+    <file>http://pub.metamaquina.com.br/updates/profiles/filament/MM_ABS.ini</file>
     <checksum></checksum>
   </profile>
 
@@ -25,6 +36,14 @@
     <type>print</type>
     <description>Altura de camada de 0.25 milímetros</description>
     <file>http://pub.metamaquina.com.br/updates/profiles/print/MM_025.ini</file>
+    <checksum></checksum>
+  </profile>
+
+  <profile>
+    <title>0.25mm FAST</title>
+    <type>print</type>
+    <description>Altura de camada de 0.25 milímetros em alta velocidade</description>
+    <file>http://pub.metamaquina.com.br/updates/profiles/print/MM_025_FAST.ini</file>
     <checksum></checksum>
   </profile>
 
