@@ -6,12 +6,4 @@
     <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_06_25</source>
     <checksum></checksum>
   </firmware>
-
-  <firmware>
-    <title>Metamáquina 2 RC2 RAMBo rev1.0e</title>
-    <description>Firmware para um dos nossos protótipos internos (MM2_RC2)</description>
-    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-06-24_MM2RC2_RAMBoRev10e.hex</image>
-    <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_RC2_RAMBo_rev10e_2013_06_24</source>
-    <checksum></checksum>
-  </firmware>
 </updates>
