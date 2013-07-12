@@ -1,13 +1,18 @@
 <updates>
   <firmware>
-    <title>Metamáquina 2 RepetierFW 09/Jul/2013</title>
-    <description>re-ativando endstops</description>
+    <title>MM2 12/Jul/2013 - sw endstops exceto ZMIN / always_check_endstops = true</title>
+    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-07-12.hex</image>
+    <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_07_12</source>
+  </firmware>
+
+  <firmware>
+    <title>MM2 09/Jul/2013 - reativando endstops durante impressão</title>
     <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-07-09.hex</image>
     <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_07_09</source>
   </firmware>
 
   <firmware>
-    <title>Metamáquina 2 RepetierFW 25/Jun/2013</title>
+    <title>MM2 25/Jun/2013 - Disables endstop checking during print moves</title>
     <description>Disables endstop checking during print moves</description>
     <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-06-25.hex</image>
     <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_06_25</source>
