@@ -1,0 +1,33 @@
+<updates>
+  <firmware>
+    <title>MM2 17/Jul/2013 - homing do Z usa Z_MAX_LENGTH do Configurations.h </title>
+    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-07-17.hex</image>
+    <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_07_17</source>
+  </firmware>
+
+  <firmware>
+    <title>MM2 12/Jul/2013 - sw endstops exceto ZMIN / always_check_endstops = true</title>
+    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-07-12.hex</image>
+    <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_07_12</source>
+  </firmware>
+
+  <firmware>
+    <title>MM2 09/Jul/2013 - reativando endstops durante impressão</title>
+    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-07-09.hex</image>
+    <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_07_09</source>
+  </firmware>
+
+  <firmware>
+    <title>MM2 25/Jun/2013 - Disables endstop checking during print moves</title>
+    <description>Disables endstop checking during print moves</description>
+    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-06-25.hex</image>
+    <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_06_25</source>
+  </firmware>
+
+  <firmware>
+    <title>Metamáquina 2 RC2 RAMBo rev1.0e</title>
+    <description>Firmware para um dos nossos protótipos internos (MM2_RC2)</description>
+    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-06-24_MM2RC2_RAMBoRev10e.hex</image>
+    <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_RC2_RAMBo_rev10e_2013_06_24</source>
+  </firmware>
+</updates>
