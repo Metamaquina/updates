@@ -1,9 +1,7 @@
 <updates>
   <firmware>
-    <title>Metamáquina 2 RepetierFW 25/Jun/2013</title>
-    <description>Disables endstop checking during print moves</description>
-    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-06-25.hex</image>
-    <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_06_25</source>
-    <checksum></checksum>
+    <title>Metamáquina 2 RepetierFW 06/Ago/2013</title>
+    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-08-06.hex</image>
+    <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_08_06</source>
   </firmware>
 </updates>
