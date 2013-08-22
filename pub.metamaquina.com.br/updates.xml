@@ -1,4 +1,14 @@
 <updates>
+  <message>
+    <platform>windows</platform>
+    <below>20130821</below>
+    <title>Atualização importante!</title>
+    <text>Uma versão nova do Pronterface está disponível.
+A principal melhoria é a correção do bug que tornava invisível o painel de controle manual da impressora.</text>
+    <url>http://pub.metamaquina.com.br/updates/host/windows/MM_Pronterface_Windows_20130821.zip</url>
+    <source>https://github.com/Metamaquina/Printrun/tree/MM_20130821</source>
+  </message>
+
   <firmware>
     <title>Metamáquina 2 RepetierFW 06/Ago/2013</title>
     <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-08-06.hex</image>
