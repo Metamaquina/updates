@@ -10,6 +10,18 @@ A principal melhoria é a correção do bug que tornava invisível o painel de c
   </message>
 
   <firmware>
+    <title>MM2 20/Set/2013-devel - suporte a multiplos termistores na EEPROM</title>
+    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-09-20-devel.hex</image>
+    <source>https://github.com/Metamaquina/Repetier-Firmware/commits/mm2</source>
+  </firmware>
+
+  <firmware>
+    <title>MM2 22/Ago/2013 - corrige a zica da calibração errada do Z</title>
+    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-08-22.hex</image>
+    <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_08_22</source>
+  </firmware>
+
+  <firmware>
     <title>MM2 09/Ago/2013 - aumenta corrente dos motores e habilita inactivity timers</title>
     <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-08-09.hex</image>
     <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_08_09</source>
