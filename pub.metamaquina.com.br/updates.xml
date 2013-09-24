@@ -59,8 +59,8 @@ A principal melhoria é a correção do bug que tornava invisível o painel de c
   </profile>
 
   <firmware>
-    <title>Metamáquina 2 RepetierFW 22/Ago/2013</title>
-    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-08-22.hex</image>
-    <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_08_22</source>
+    <title>Metamáquina 2 RepetierFW 20/Set/2013</title>
+    <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-09-20.hex</image>
+    <source>https://github.com/Metamaquina/Repetier-Firmware/tree/MM2_2013_09_20</source>
   </firmware>
 </updates>
