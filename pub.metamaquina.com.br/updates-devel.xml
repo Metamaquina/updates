@@ -9,6 +9,55 @@ A principal melhoria é a correção do bug que tornava invisível o painel de c
     <source>https://github.com/Metamaquina/Printrun/tree/MM_20130821</source>
   </message>
 
+  <profile>
+    <title>MM2 Printer Profile</title>
+    <description>Metamáquina 2 - caracteristicas da impressora</description>
+    <type>printer</type>
+    <file>http://pub.metamaquina.com.br/updates/profiles/printer/Metamaquina2.ini</file>
+  </profile>
+
+  <profile>
+    <title>MM2 Print Profile - Rascunho</title>
+    <description>Metamáquina 2 Print Profile - Qualidade rascunho</description>
+    <type>print</type>
+    <file>http://pub.metamaquina.com.br/updates/profiles/print/Rascunho.ini</file>
+  </profile>
+
+  <profile>
+    <title>MM2 Print Profile - Padrao</title>
+    <description>Metamáquina 2  Print Profile - Qualidade padrao</description>
+    <type>print</type>
+    <file>http://pub.metamaquina.com.br/updates/profiles/print/Padrao.ini</file>
+  </profile>
+
+  <profile>
+    <title>MM2 Print Profile - Media</title>
+    <description>Metamáquina 2 Print Profile - Qualidade media</description>
+    <type>print</type>
+    <file>http://pub.metamaquina.com.br/updates/profiles/print/Media.ini</file>
+  </profile>
+
+  <profile>
+    <title>MM2 Print Profile - Alta</title>
+    <description>Metamáquina 2 Print Profile - Qualidade alta</description>
+    <type>print</type>
+    <file>http://pub.metamaquina.com.br/updates/profiles/print/Alta.ini</file>
+  </profile>
+
+  <profile>
+    <title>MM2 ABS filament Profile</title>
+    <description>Metamáquina 2 - perfil para ABS</description>
+    <type>filament</type>
+    <file>http://pub.metamaquina.com.br/updates/profiles/filament/ABS.ini</file>
+  </profile>
+
+  <profile>
+    <title>MM2 PLA filament Profile</title>
+    <description>Metamáquina 2 - perfil para PLA</description>
+    <type>filament</type>
+    <file>http://pub.metamaquina.com.br/updates/profiles/filament/PLA.ini</file>
+  </profile>
+
   <firmware>
     <title>MM2 20/Set/2013-devel - suporte a multiplos termistores na EEPROM</title>
     <image>http://pub.metamaquina.com.br/updates/firmware/Repetier-fw-Metamaquina2-2013-09-20-devel.hex</image>
