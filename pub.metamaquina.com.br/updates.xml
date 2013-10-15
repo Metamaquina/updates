@@ -1,12 +1,20 @@
 <updates>
   <message>
     <platform>windows</platform>
-    <below>20130821</below>
-    <title>Atualização importante!</title>
-    <text>Uma versão nova do Pronterface está disponível.
-A principal melhoria é a correção do bug que tornava invisível o painel de controle manual da impressora.</text>
-    <url>http://pub.metamaquina.com.br/updates/host/windows/MM_Pronterface_Windows_20130821.zip</url>
-    <source>https://github.com/Metamaquina/Printrun/tree/MM_20130821</source>
+    <below>20131001</below>
+    <title>Atualização</title>
+    <text>Uma versão nova do Pronterface está disponível.</text>
+    <url>http://pub.metamaquina.com.br/updates/host/windows/MM_Pronterface_Windows_20131001.zip</url>
+    <source>https://github.com/Metamaquina/Printrun/tree/MM_20131001</source>
+  </message>
+
+  <message>
+    <platform>gnulinux</platform>
+    <below>20131001</below>
+    <title>Atualização</title>
+    <text>Uma versão nova do Pronterface está disponível.</text>
+    <url>http://pub.metamaquina.com.br/updates/host/gnulinux/</url>
+    <source>https://github.com/Metamaquina/Printrun/tree/MM_20131001</source>
   </message>
 
   <profile>

@@ -9,6 +9,15 @@ A principal melhoria é a correção do bug que tornava invisível o painel de c
     <source>https://github.com/Metamaquina/Printrun/tree/MM_20130821</source>
   </message>
 
+  <message>
+    <platform>gnulinux</platform>
+    <below>20131001</below>
+    <title>Atualização</title>
+    <text>Uma versão nova do Pronterface está disponível.</text>
+    <url>http://pub.metamaquina.com.br/updates/host/gnulinux/</url>
+    <source>https://github.com/Metamaquina/Printrun/tree/MM_20131001</source>
+  </message>
+
   <profile>
     <title>MM2 Printer Profile</title>
     <description>Metamáquina 2 - caracteristicas da impressora</description>
